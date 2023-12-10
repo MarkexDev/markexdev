@@ -3,7 +3,7 @@
 Soy ingeniero en Sistemas Computacionales.
 
 En 2018 dejé mi comunidad y viaje a la ciudad de Orizaba para poder estudiar la carrera de Ingeniería.
-Egrese del Instituto Técnologico de Orizaba en Agosto de 2023 y actualmente me encuentro en busqueda de oportunidades laborales dentro del area de desarrollo.
+Egrese del Instituto Técnologico de Orizaba en Agosto de 2023 y actualmente me encuentro en busqueda de una oportunidad laboral.
 
 ## Las Tecnologías que actualmente manejo son:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
