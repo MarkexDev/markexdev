@@ -2,7 +2,7 @@
 
 Soy ingeniero en Sistemas Computacionales.
 
-En 2018 dejé mi comunidad y viaje a la ciudad de Orizaba para poder comenzar mi camino profesional dentro de la industria del desarrollo de software.
+En 2018 dejé mi comunidad y viaje a la ciudad de Orizaba para poder estudiar la carrera de Ingeniería.
 Egrese del Instituto Técnologico de Orizaba en Agosto de 2023 y actualmente me encuentro en busqueda de oportunidades laborales dentro del area de desarrollo.
 
 ## Las Tecnologías que actualmente manejo son:
