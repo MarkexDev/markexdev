@@ -11,5 +11,3 @@ Egrese del Instituto Técnologico de Orizaba en Agosto de 2023 y actualmente me 
 [![JavaScript]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))]()
 [![Bootstrap]([https://img.shields.io/badge/BootStrap-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white))]()
 [![MySQL]([https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-
-
